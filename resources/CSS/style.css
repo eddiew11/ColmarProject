@@ -1,0 +1,51 @@
+.header{
+    height: 64px;
+    max-width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-left{
+    display: inline-flex;
+    align-items: center;
+    margin-left: 24px;
+    font-size: 32px;
+}
+.colmar{
+    font-family: Quicksand, sans-serif;
+    font-size: 32px;
+}
+.academy{
+    font-family: Quicksand;
+    font-weight: 300;
+    font-size: 32px;
+}
+.navbar{
+    display: inline-flex;
+    align-items: center;
+    margin-right: 24px;
+    float: right;
+}
+header ul{
+    list-style: none;
+    display: flex;
+    font-family: Quicksand, sans-serif;
+    padding-left: 16px;
+    font-size: 19px;
+    justify-content: center;
+}
+.navlist{
+    padding-left: 16px;
+}
+.learnsection{
+    background-color: #d1d1d1;
+    width: 100%''
+}
+.learnsection img{
+    width: 60%;
+    padding: 32px 24px 32px 24px;
+}
+.heading {
+    float: right;
+    font-family: Quicksand;
+}
